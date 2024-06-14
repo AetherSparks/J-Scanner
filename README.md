@@ -2,6 +2,12 @@
 Java Project using Tesseract OCR
 
 
+
+
+
+
+
+
 Introducing J-Scanner: A Java and Tesseract OCR Project
 
 
